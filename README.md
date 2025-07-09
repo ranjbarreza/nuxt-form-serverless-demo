@@ -2,6 +2,9 @@
 
 This project is a Nuxt application demonstrating a form component that submits data to a serverless function. The app is deployed via Vercel, meaning the form submits to a vercel function that sends email using [Resend](https://resend.com/).
 
+> **NOTE**
+> Because it's a demo project and I'm using the free version of Resend, all emails from form submissions will be send to my email address.
+
 
 ## Project Setup and Requirements
 
